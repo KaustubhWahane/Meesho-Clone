@@ -1,0 +1,7 @@
+Search baar ko input ke andar
+Navigation me vo purnaviram ko bada kese karu?
+H1 Top categories wale ka left side ko andar kese lu
+Categories ko static kese karu jesa shuruwat ke hai and niche ke isme bhi
+Filter Icon on the left side of Each category
+Navigation ka stick hone ka problem
+Footer ka arrow key
